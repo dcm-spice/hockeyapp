@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     "dcm-spice": "dcm.spice@gmail.com"
   }
   s.source       = {
-    :git => "ssh://git@git.drecom.jp:10022/hattori_yuri/hockeyapp.git",
+    :git => "https://github.com/dcm-spice/hockeyapp.git",
     :tag => s.version
   }
 
